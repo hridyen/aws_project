@@ -18,3 +18,7 @@ This project demonstrates how to visualize structured CSV data using AWS service
 - Built visual dashboards and charts in QuickSight using the dataset.
 - Took screenshots of the working setup to preserve the project.
 
+  ## Note
+
+- This project was built on AWS Free Tier and is no longer actively hosted. Screenshots and explanation are provided for demonstration purposes.
+
